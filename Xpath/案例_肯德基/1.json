@@ -1,0 +1,89 @@
+{
+  "Table": [
+    {
+      "rowcount": 122
+    }
+  ],
+  "Table1": [
+    {
+      "rownum": 1,
+      "storeName": "凤岭",
+      "addressDetail": "民族大道186号琅东客运站一层",
+      "pro": "24小时,Wi-Fi,点唱机,店内参观,礼品卡",
+      "provinceName": "广西",
+      "cityName": "南宁市"
+    },
+    {
+      "rownum": 2,
+      "storeName": "明秀",
+      "addressDetail": "明秀西路122号城市碧园公寓首层",
+      "pro": "24小时,Wi-Fi,店内参观,礼品卡",
+      "provinceName": "广西",
+      "cityName": "南宁市"
+    },
+    {
+      "rownum": 3,
+      "storeName": "新民",
+      "addressDetail": "七星路王府井百货一层",
+      "pro": "24小时,Wi-Fi,点唱机,店内参观,礼品卡",
+      "provinceName": "广西",
+      "cityName": "南宁市"
+    },
+    {
+      "rownum": 4,
+      "storeName": "北湖",
+      "addressDetail": "北湖南路南棉街南城百货一层肯德基",
+      "pro": "24小时,Wi-Fi,点唱机,店内参观,礼品卡",
+      "provinceName": "广西",
+      "cityName": "南宁市"
+    },
+    {
+      "rownum": 5,
+      "storeName": "航洋",
+      "addressDetail": "民族大道131号航洋国际购物中心一层",
+      "pro": "24小时,Wi-Fi,点唱机,店内参观,礼品卡",
+      "provinceName": "广西",
+      "cityName": "南宁市"
+    },
+    {
+      "rownum": 6,
+      "storeName": "大沙田",
+      "addressDetail": "五象大道1号鑫利华大厦一层",
+      "pro": "24小时,Wi-Fi,点唱机,店内参观,礼品卡",
+      "provinceName": "广西",
+      "cityName": "南宁市"
+    },
+    {
+      "rownum": 7,
+      "storeName": "新阳",
+      "addressDetail": "新阳路286号阳光康城一层",
+      "pro": "24小时,Wi-Fi,点唱机,店内参观,礼品卡",
+      "provinceName": "广西",
+      "cityName": "南宁市"
+    },
+    {
+      "rownum": 8,
+      "storeName": "淡村",
+      "addressDetail": "五一路淡村商贸城南城百货一二楼",
+      "pro": "24小时,Wi-Fi,点唱机,店内参观,礼品卡",
+      "provinceName": "广西",
+      "cityName": "南宁市"
+    },
+    {
+      "rownum": 9,
+      "storeName": "望园",
+      "addressDetail": "东葛路82号永凯现代城侧门一层",
+      "pro": "24小时,Wi-Fi,店内参观,礼品卡",
+      "provinceName": "广西",
+      "cityName": "南宁市"
+    },
+    {
+      "rownum": 10,
+      "storeName": "古城",
+      "addressDetail": "民族大道民族宫立体停车场一至三层",
+      "pro": "24小时,Wi-Fi,点唱机,店内参观,礼品卡",
+      "provinceName": "广西",
+      "cityName": "南宁市"
+    }
+  ]
+}
